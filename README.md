@@ -159,7 +159,26 @@ Reported vulnerabilities in GPT-OSS 120B
 
 Performed large-scale data analysis using Python (Pandas, NumPy), built visualization pipelines with Matplotlib & Seaborn, and applied statistical modeling techniques for analytics systems.
 
+---
 
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rahulratho15&show_icons=true&theme=transparent&hide_border=true&title_color=0052CC&icon_color=0052CC" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulratho15&theme=transparent&hide_border=true&ring=0052CC&fire=0052CC&currStreakLabel=0052CC" width="48%" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulratho15&layout=compact&theme=transparent&hide_border=true&title_color=0052CC" width="40%" />
+
+<br><br>
+
+<img src="https://ghchart.rshah.org/0052CC/rahulratho15" alt="Rahul's Github Chart" />
+
+</div>
+
+---
 
 ## Connect
 
@@ -179,7 +198,7 @@ Performed large-scale data analysis using Python (Pandas, NumPy), built visualiz
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=0052CC&center=true&vCenter=true&width=500&lines=Code+with+passion.+Build+with+purpose.+Engineer+the+future." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=0052CC&center=true&vCenter=true&width=750&lines=Code+with+passion.+Build+with+purpose.+Engineer+the+future." />
 
 <br>
 
