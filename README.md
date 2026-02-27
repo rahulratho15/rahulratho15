@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Status-Aspiring-AI_Engineer-0052CC?style=flat-square&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/Status-Aspiring_AI_Engineer-0052CC?style=flat-square&labelColor=0a0a0a" />
 <img src="https://img.shields.io/badge/Focus-Agentic_Systems-009688?style=flat-square&labelColor=0a0a0a" />
 <img src="https://img.shields.io/badge/Degree-AI_%26_Data_Science-FF6F00?style=flat-square&labelColor=0a0a0a" />
 <img src="https://img.shields.io/badge/Location-Madurai,_India-555?style=flat-square&labelColor=0a0a0a" />
